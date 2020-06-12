@@ -1,0 +1,54 @@
+.container {
+  padding: 0;
+  position: relative;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  transition: 0.5s;
+  text-align: center;
+  align-items: center;
+  box-sizing: border-box;
+  margin-bottom: 1.5em;
+  box-shadow: 0 20px 20px rgb(0, 0, 0, 0.8);
+}
+.container .card .text1::before {
+  content: "";
+  color: white;
+  z-index: 1000;
+}
+
+.container .card .text1 {
+  position: relative;
+  transition: 0.5s;
+  padding: 5px;
+  transform: translateY(25px);
+  z-index: 1;
+  opacity: 1;
+}
+.container .card .text2 {
+  position: relative;
+  color: black;
+  font-size: small;
+  transform: translateY(-25px);
+}
+.container .card:hover .text1 {
+  transform: translateY(0);
+  opacity: 1;
+  transition: 0.5s;
+}
+.container .card:hover .text2 {
+  transform: translateY(0);
+  opacity: 1;
+  background: white;
+  transition: 0.5s;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
