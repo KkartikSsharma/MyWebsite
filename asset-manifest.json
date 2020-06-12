@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MyWebsite/static/css/main.a9816d89.chunk.css",
+    "main.js": "/MyWebsite/static/js/main.8c2f0467.chunk.js",
+    "main.js.map": "/MyWebsite/static/js/main.8c2f0467.chunk.js.map",
+    "runtime-main.js": "/MyWebsite/static/js/runtime-main.da9c3cd1.js",
+    "runtime-main.js.map": "/MyWebsite/static/js/runtime-main.da9c3cd1.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/MyWebsite/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1c03b620.chunk.js": "/MyWebsite/static/js/2.1c03b620.chunk.js",
+    "static/js/2.1c03b620.chunk.js.map": "/MyWebsite/static/js/2.1c03b620.chunk.js.map",
+    "index.html": "/MyWebsite/index.html",
+    "precache-manifest.e3b7b6a3c07b002dd479aeedf9fa8aa1.js": "/MyWebsite/precache-manifest.e3b7b6a3c07b002dd479aeedf9fa8aa1.js",
+    "service-worker.js": "/MyWebsite/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/MyWebsite/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.a9816d89.chunk.css.map": "/MyWebsite/static/css/main.a9816d89.chunk.css.map",
+    "static/js/2.1c03b620.chunk.js.LICENSE.txt": "/MyWebsite/static/js/2.1c03b620.chunk.js.LICENSE.txt",
+    "static/media/GLogo.png": "/MyWebsite/static/media/GLogo.13aa190c.png",
+    "static/media/Java.png": "/MyWebsite/static/media/Java.1faf0791.png",
+    "static/media/PanjabUniversityLogo.jpg": "/MyWebsite/static/media/PanjabUniversityLogo.57246b04.jpg",
+    "static/media/ProfilePic.JPG": "/MyWebsite/static/media/ProfilePic.d3bdb7ed.JPG",
+    "static/media/Python.png": "/MyWebsite/static/media/Python.c290a443.png",
+    "static/media/React.jpg": "/MyWebsite/static/media/React.4603f0d1.jpg",
+    "static/media/ResumePdf.pdf": "/MyWebsite/static/media/ResumePdf.16d59e9f.pdf",
+    "static/media/School.jpg": "/MyWebsite/static/media/School.7ce30324.jpg",
+    "static/media/StanChart.jpg": "/MyWebsite/static/media/StanChart.bcd223ff.jpg",
+    "static/media/logo.svg": "/MyWebsite/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da9c3cd1.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1c03b620.chunk.js",
+    "static/css/main.a9816d89.chunk.css",
+    "static/js/main.8c2f0467.chunk.js"
+  ]
+}
