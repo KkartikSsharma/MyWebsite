@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MyWebsite/static/css/main.a9816d89.chunk.css",
-    "main.js": "/MyWebsite/static/js/main.8c2f0467.chunk.js",
-    "main.js.map": "/MyWebsite/static/js/main.8c2f0467.chunk.js.map",
+    "main.css": "/MyWebsite/static/css/main.ac44462c.chunk.css",
+    "main.js": "/MyWebsite/static/js/main.e44917bf.chunk.js",
+    "main.js.map": "/MyWebsite/static/js/main.e44917bf.chunk.js.map",
     "runtime-main.js": "/MyWebsite/static/js/runtime-main.da9c3cd1.js",
     "runtime-main.js.map": "/MyWebsite/static/js/runtime-main.da9c3cd1.js.map",
     "static/css/2.af3c1da9.chunk.css": "/MyWebsite/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1c03b620.chunk.js": "/MyWebsite/static/js/2.1c03b620.chunk.js",
-    "static/js/2.1c03b620.chunk.js.map": "/MyWebsite/static/js/2.1c03b620.chunk.js.map",
+    "static/js/2.a43afab6.chunk.js": "/MyWebsite/static/js/2.a43afab6.chunk.js",
+    "static/js/2.a43afab6.chunk.js.map": "/MyWebsite/static/js/2.a43afab6.chunk.js.map",
     "index.html": "/MyWebsite/index.html",
-    "precache-manifest.b95cd449c23c9912ac16cf6c0a540497.js": "/MyWebsite/precache-manifest.b95cd449c23c9912ac16cf6c0a540497.js",
+    "precache-manifest.7761b6fc155d1095768f1f9cf797754d.js": "/MyWebsite/precache-manifest.7761b6fc155d1095768f1f9cf797754d.js",
     "service-worker.js": "/MyWebsite/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/MyWebsite/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.a9816d89.chunk.css.map": "/MyWebsite/static/css/main.a9816d89.chunk.css.map",
-    "static/js/2.1c03b620.chunk.js.LICENSE.txt": "/MyWebsite/static/js/2.1c03b620.chunk.js.LICENSE.txt",
+    "static/css/main.ac44462c.chunk.css.map": "/MyWebsite/static/css/main.ac44462c.chunk.css.map",
+    "static/js/2.a43afab6.chunk.js.LICENSE.txt": "/MyWebsite/static/js/2.a43afab6.chunk.js.LICENSE.txt",
     "static/media/GLogo.png": "/MyWebsite/static/media/GLogo.13aa190c.png",
     "static/media/Java.png": "/MyWebsite/static/media/Java.1faf0791.png",
     "static/media/PanjabUniversityLogo.jpg": "/MyWebsite/static/media/PanjabUniversityLogo.57246b04.jpg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.da9c3cd1.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.1c03b620.chunk.js",
-    "static/css/main.a9816d89.chunk.css",
-    "static/js/main.8c2f0467.chunk.js"
+    "static/js/2.a43afab6.chunk.js",
+    "static/css/main.ac44462c.chunk.css",
+    "static/js/main.e44917bf.chunk.js"
   ]
 }
